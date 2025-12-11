@@ -71,7 +71,7 @@ export const Footer = () => {
             <div className="lg:col-span-1 text-center md:text-left">
               <div className="flex items-center justify-center md:justify-start mb-6">
                 <Image
-                  src="/material web/logo color impulse.png"
+                  src="/material web/LOGO COLOR IMPULSE.png"
                   alt="IMPULSE AGENCY Logo"
                   width={200}
                   height={80}

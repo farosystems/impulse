@@ -165,7 +165,7 @@ export const Header = () => {
             {/* Logo - Positioned left on mobile, centered on desktop */}
             <div className="flex items-center group md:absolute md:left-4 ml-4">
               <Image
-                src="/material web/logo blanco impulse.png"
+                src="/material web/LOGO BLANCO IMPULSE.png"
                 alt="Logo IMPULSE AGENCY"
                 width={160}
                 height={60}
